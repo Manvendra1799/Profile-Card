@@ -1,0 +1,38 @@
+learning:
+
+1. how to use css postioning -> relative//absolute
+2. how to use css flexbox -> center items 
+3. what is object-fit (img)?
+4. what is padding?
+
+5. why to use flex-direction[column]??? -> applied in parent 
+6. what is use of flex, flex-grow, flex-shrink , flex-basis? -> applied in child
+7. how to use pseudo-elements
+    profile-card::before{
+
+    }
+8. how to use max-width and width both together?
+
+after watching video?
+1. what is box-sizing : border-box; content-box?
+2. how to box- shadow?
+
+(how to play with buttons)
+##.(CSS)  
+@ cursor->pointer
+@ transition->all 0.3sec ease 
+@ :last-child
+@ box-shadow 
+@ box-sizing 
+@ max-width + width 
+@ z-index
+@ object-fit
+@ profile-card::before(pseudo elements)
+@ text-decoration
+
+###.(html)
+<span> </span>
+
+##.cursor->pointer!
+## how to use hover property with transition of 0.3 sec ease in buttons!!
+###. border-right : used to construct the line .
